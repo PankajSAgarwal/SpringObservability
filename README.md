@@ -1,2 +1,2 @@
 # SpringObservability
-Observability With Springboot-3.2
+Observability With Springboot-3.2 using zipkin(zipkin image pulled from docker-compose yaml file)
